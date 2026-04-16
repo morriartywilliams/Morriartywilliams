@@ -9,9 +9,6 @@
 
  
 
-  In a world where code decays and logic fades...
-One cursed developer remains.
-Not to fix bugs… but to embrace them.
 
 
 
@@ -49,17 +46,17 @@ Not to fix bugs… but to embrace them.
   <img src="https://streak-stats.demolab.com?user=morriartywilliams&theme=tokyonight&hide_border=true" />
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morriartywilliams&layout=compact&theme=tokyonight&hide_border=true" />
-</p>---
+</p>
 
 
 
 
 
- Ending
+ 
 
- The flame fades…
-Yet the code remains.
-
+ <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=THE+FLAME+FADES...;+YET+THE+CODE+REMAINS" />
+</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morriartywilliams&show_icons=true&locale=en&layout=compact" alt="morriartywilliams" /></p>
 
