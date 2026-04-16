@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=JIN+;BE+SAFE+FRIEND+.;DON'T+YOU+DARE+GO+HOLLW" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=JIN+;BE+SAFE+FRIEND+.;DON'T+YOU+DARE+GO+HOLLWO" />
 </h1>
 
 
- Lore
+ 
 
-In a world where code decays and logic fades...
+  In a world where code decays and logic fades...
 One cursed developer remains.
 Not to fix bugs… but to embrace them.
 
@@ -52,16 +52,13 @@ Not to fix bugs… but to embrace them.
 </p>---
 
 
- Bonfire Thought
-
-Every bug is a boss. Every fix… a fleeting victory.
 
 
 
  Ending
 
-«The flame fades…
-Yet the code remains.»
+ The flame fades…
+Yet the code remains.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morriartywilliams&show_icons=true&locale=en&layout=compact" alt="morriartywilliams" /></p>
