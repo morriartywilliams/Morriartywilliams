@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=JIN;Ashen+Coder;Bearer+of+the+Curse" />
+  <img src="https://images.alphacoders.com/707/707676.jpg" width="100%" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=JIN+THE+ASHEN+ONE;BEARER+OF+THE+CURSE;THE+FLAME+FADES" />
+</h1>
 
 
  Lore
