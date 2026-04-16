@@ -1,16 +1,15 @@
 <p align="center">
-  <img src="https://images.alphacoders.com/707/707676.jpg" />
-</p><h1 align="center">🗡️ JIN, The Ashen Coder</h1><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Bearer+of+the+Curse;Coder+of+Chaos;Seeker+of+Knowledge;Linker+of+Bugs" />
-</p>---
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=JIN;Ashen+Coder;Bearer+of+the+Curse" />
+</p>
+
 
  Lore
 
-«In a world where code decays and logic fades...
+In a world where code decays and logic fades...
 One cursed developer remains.
-Not to fix bugs… but to embrace them.»
+Not to fix bugs… but to embrace them.
 
----
+
 
  Stats
 
@@ -19,7 +18,7 @@ Not to fix bugs… but to embrace them.»
 -  Main Quest: Building a game
 -  Alignment: Chaotic Neutral
 
----
+
 
   Tech Stack
   
@@ -27,7 +26,7 @@ Not to fix bugs… but to embrace them.»
   <img src="https://skillicons.dev/icons?i=android,bash,cpp,css,docker,git,go,html,java,js,kotlin,linux,mongodb,mysql,php,postgres,python,unity,unreal" />
 </p>---
 
-🧭 Bonfire Links
+ Links
 
 <p align="center">
   <a href="https://instagram.com/mmoham.ed.rm">
@@ -48,24 +47,19 @@ Not to fix bugs… but to embrace them.»
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morriartywilliams&layout=compact&theme=tokyonight&hide_border=true" />
 </p>---
 
-🐍 Curse of Repetition
-
-<p align="center">
-  <img src="https://github.com/morriartywilliams/morriartywilliams/blob/output/github-contribution-grid-snake.svg" />
-</p>---
 
  Bonfire Thought
 
-«"Every bug is a boss. Every fix… a fleeting victory."»
+Every bug is a boss. Every fix… a fleeting victory.
 
----
+
 
  Ending
 
 «The flame fades…
 Yet the code remains.»
 
----
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morriartywilliams&show_icons=true&locale=en&layout=compact" alt="morriartywilliams" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morriartywilliams&show_icons=true&locale=en" alt="morriartywilliams" /></p>
