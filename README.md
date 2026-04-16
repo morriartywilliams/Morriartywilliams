@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Bearer+of+the+Curse;Coder+of+Chaos;Seeker+of+Knowledge;Linker+of+Bugs" />
 </p>---
 
-🔥 Lore
+ Lore
 
 «In a world where code decays and logic fades...
 One cursed developer remains.
@@ -12,17 +12,17 @@ Not to fix bugs… but to embrace them.»
 
 ---
 
-🧠 Stats
+ Stats
 
-- 🗡️ Class: Vibe Coder
-- 💀 Level: Unknown
-- 🔥 Main Quest: Building a game
-- 🌑 Alignment: Chaotic Neutral
+-  Class: Vibe Coder
+-  Level: Unknown
+-  Main Quest: Building a game
+-  Alignment: Chaotic Neutral
 
 ---
 
-⚔️ Equipment (Tech Stack)
-
+  Tech Stack
+  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=android,bash,cpp,css,docker,git,go,html,java,js,kotlin,linux,mongodb,mysql,php,postgres,python,unity,unreal" />
 </p>---
@@ -43,29 +43,29 @@ Not to fix bugs… but to embrace them.»
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mmorriartywilliams&show_icons=true&theme=tokyonight&hide_border=true" />
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=mmorriartywilliams&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=morriartywilliams&theme=tokyonight&hide_border=true" />
 </p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmorriartywilliams&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morriartywilliams&layout=compact&theme=tokyonight&hide_border=true" />
 </p>---
 
 🐍 Curse of Repetition
 
 <p align="center">
-  <img src="https://github.com/mmorriartywilliams/mmorriartywilliams/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/morriartywilliams/morriartywilliams/blob/output/github-contribution-grid-snake.svg" />
 </p>---
 
-🕯️ Bonfire Thought
+ Bonfire Thought
 
 «"Every bug is a boss. Every fix… a fleeting victory."»
 
 ---
 
-⚰️ Ending
+ Ending
 
 «The flame fades…
 Yet the code remains.»
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmorriartywilliams&show_icons=true&locale=en&layout=compact" alt="mmorriartywilliams" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morriartywilliams&show_icons=true&locale=en&layout=compact" alt="morriartywilliams" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmorriartywilliams&show_icons=true&locale=en" alt="mmorriartywilliams" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morriartywilliams&show_icons=true&locale=en" alt="morriartywilliams" /></p>
