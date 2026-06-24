@@ -7,7 +7,7 @@
 
 ---
 
-## ⚔️ Profile
+##  Profile
 
 - Class: Vibe Coder  
 - Focus: Game Development  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,kotlin" /><br>
@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 Stats
+##  Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=morriartywilliams&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -44,7 +44,7 @@
 
 ---
 
-## 🔗 Connect
+##  Connect
 
 <p align="center">
   <a href="https://discord.com/invite/Morriarty_william" target="_blank">
